@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Groshop</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_main__navigation">Main_Navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="store_name">Groshop</string>
+    <string name="for_all_your_shopping_needs">For all your shopping Needs</string>
+    <string name="Accra">Accra Mall</string>
+    <string name="Achimota">Achimota Mall</string>
+    <string name="West_Hills">West Hills Mall</string>
+    <string name="Marina">Marina Mall</string>
+    <string name="AnC">AnC Mall</string>
+    <string name="Junction">Junction Mall</string>
+    <string name="accra">Accra</string>
+    <string name="accra_mall">Accra Mall</string>
+</resources>

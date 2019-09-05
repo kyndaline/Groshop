@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Accra"
+            android:icon="@drawable/ic_shopping_cart_black_24dp"
+            android:title="@string/Accra" />
+        <item
+            android:id="@+id/Achimota"
+            android:icon="@drawable/ic_shopping_basket_black_24dp"
+            android:title="@string/Achimota" />
+        <item
+            android:id="@+id/West_Hills"
+            android:icon="@drawable/ic_add_shopping_cart_black_24dp"
+            android:title="@string/West_Hills" />
+        <item
+            android:id="@+id/Junction"
+            android:icon="@drawable/ic_redeem_black_24dp"
+            android:title="@string/Junction" />
+        <item
+            android:id="@+id/AnC"
+            android:icon="@drawable/ic_next_week_black_24dp"
+            android:title="@string/AnC" />
+        <item
+            android:id="@+id/Marina"
+            android:icon="@drawable/ic_business_center_black_24dp"
+            android:title="@string/Marina" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+
+        </menu>
+    </item>
+</menu>
